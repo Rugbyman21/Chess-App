@@ -5,132 +5,132 @@
 =Note: Make a About/Contact page
 
 =Note: Make a Definition page
--Game
--Openings
--Variation
--Defense(opening chosen by black)
--Gambit(opening involves sacrificing of material, usually one or more pawns)
--Countergambit(an opening gambit response to another gambit, almost always by black)
--Reversed or inverted (black opening played by white, or vise versa)
--Attack
--Defend
--Check
--Checkmate
--Tempo
--Fianchetto
--Pawn Structure
--King Safety
--Point Values
--Open Files
--Diagonals
--Individual Squares
--Close Postion (Many pawns)
--Open Postion (Open board, few pawns)
--Hypermodern Openings
--Promotion
--En Passant
--Passed Pawn
--Half-open files
--Fianchettoed
--Relative skewer
--Absolute skewer
--Castling
--Opening Theory
--Pin
--Fork
--Combination
--Zwischenzug
--Sacrifices
--Decoying
--Defelection
--Threefold Repetion
--Overloading
--Overworked piece
--Undermining
--Windmill
--Discovered checks
--Double checks
--Notation
--Stalemate
--Draw by agreement
--Resignation
--Battery
+- Game
+- Openings
+- Variation
+- Defense(opening chosen by black)
+- Gambit(opening involves sacrificing of material, usually one or more pawns)
+- Countergambit(an opening gambit response to another gambit, almost always by black)
+- Reversed or inverted (black opening played by white, or vise versa)
+- Attack
+- Defend
+- Check
+- Checkmate
+- Tempo
+- Fianchetto
+- Pawn Structure
+- King Safety
+- Point Values
+- Open Files
+- Diagonals
+- Individual Squares
+- Close Postion (Many pawns)
+- Open Postion (Open board, few pawns)
+- Hypermodern Openings
+- Promotion
+- En Passant
+- Passed Pawn
+- Half-open files
+- Fianchettoed
+- Relative skewer
+- Absolute skewer
+- Castling
+- Opening Theory
+- Pin
+- Fork
+- Combination
+- Zwischenzug
+- Sacrifices
+- Decoying
+- Defelection
+- Threefold Repetion
+- Overloading
+- Overworked piece
+- Undermining
+- Windmill
+- Discovered checks
+- Double checks
+- Notation
+- Stalemate
+- Draw by agreement
+- Resignation
+- Battery
 
 
 =Note: Make a Rules page
--Regular rules
--Tournament rules (ex. touch moves)
+- Regular rules
+- Tournament rules (ex. touch moves)
 
 =Note: Make a Basic page
--Setup of pieces and board
--Pawns: moves(special: the first time it moves, you can move it two squares)/attack
----en passant
--Knights: moves/attack
--Fork(attacking two pieces at once)
--Bishops: moves/attack
--Rooks: moves/attack
--Queen: moves/attack
--King: moves/attack
--Point Values to each piece
--Importance of Development
--Pawn Structure
--Defending pieces
--Exchanging pieces
--Castling
--Minority Attack (advance of pawns on the side of the board where one has fewer pawns than the opponent)
--Notation
+- Setup of pieces and board
+- Pawns: moves(special: the first time it moves, you can move it two squares)/attack
+-- en passant
+- Knights: moves/attack
+-- Fork(attacking two pieces at once)
+- Bishops: moves/attack
+- Rooks: moves/attack
+- Queen: moves/attack
+- King: moves/attack
+- Point Values to each piece
+- Importance of Development
+- Pawn Structure
+- Defending pieces
+- Exchanging pieces
+- Castling
+- Minority Attack (advance of pawns on the side of the board where one has fewer pawns than the opponent)
+- Notation
 
 =Note: Make a Opening move (for white/black players) page
--Opening moves for developing White pieces (ex. 1. e4, 1.d4, 1.Nf3, and 1.c4)
--Opening moves for developing Black pieces (ex. 1. e5, 1.d5, 1.Nf6, and 1.c5)
--Open Theory
+- Opening moves for developing White pieces (ex. 1. e4, 1.d4, 1.Nf3, and 1.c4)
+- Opening moves for developing Black pieces (ex. 1. e5, 1.d5, 1.Nf6, and 1.c5)
+- Open Theory
 
-Note: Make a Tactical/mid game page
-=Chess Strategies and Tactics
--Attack or Threaten a piece
--Defend or Protecting a piece
--Space
--Controlling the Center
--Minority Attack
--Exchange Pieces
--Exchanging Pieces
--Zugzwang
--Pin
--Advantage of Tempo
--Zwischenzug
--Taking advantage using a fork
--Skewer
--Sacrifices
--Decoying
--Defelection
--Overloading
--Overworked piece
--Undermining
--Windmill
--Discovered checks
--Double checks
--Battery
--Pawns tactics
--- Pawn Storm
--- Pawn Structure
--- Passed pawns
--- Isolated pawns
--- Doubled pawns
--- Backward pawns
--- Connected pawns
--Knights tactics
--- Holes/outpost (ex. Nc3, Nf3 "Knight perfer greener pasture")
--- Edge or Corner ("A Knight on the rim is dim!")
--Bishops tactics
--- fianchettoed (ex. 2.Bg2)(a Bishop is stronger when more squares it can attack in a diagnol)
--Rooks tactics
--- half-open files
--- attacking on the 7th file
--Queen tactics
--- attacking w/ minor pieces
+=Note: Make a Tactical/mid game page
+Chess Strategies and Tactics
+- Attack or Threaten a piece
+- Defend or Protecting a piece
+- Space
+- Controlling the Center
+- Minority Attack
+- Exchange Pieces
+- Exchanging Pieces
+- Zugzwang
+- Pin
+- Advantage of Tempo
+- Zwischenzug
+- Taking advantage using a fork
+- Skewer
+- Sacrifices
+- Decoying
+- Defelection
+- Overloading
+- Overworked piece
+- Undermining
+- Windmill
+- Discovered checks
+- Double checks
+- Battery
+Pawns tactics
+- Pawn Storm
+- Pawn Structure
+- Passed pawns
+- Isolated pawns
+- Doubled pawns
+- Backward pawns
+- Connected pawns
+Knights tactics
+- Holes/outpost (ex. Nc3, Nf3 "Knight perfer greener pasture")
+- Edge or Corner ("A Knight on the rim is dim!")
+Bishops tactics
+- fianchettoed (ex. 2.Bg2)(a Bishop is stronger when more squares it can attack in a diagnol)
+Rooks tactics
+- half-open files
+- attacking on the 7th file
+Queen tactics
+- attacking w/ minor pieces
 
 
-Note: Make a End game page
+=Note: Make a End game page
 - King/pawn(s)
 - King/bishop/bishop
 - King/Rook
@@ -138,12 +138,12 @@ Note: Make a End game page
 - King/knight/knight
 - King/queen/rook
 - (anything else I can't think of right now)
--Threefold Repetion
+- Threefold Repetion
 
-Note: Make a Info Page
--books
--websites
--any thing else
+=Note: Make a Info Page
+- books
+- websites
+- any thing else
 
 
 
